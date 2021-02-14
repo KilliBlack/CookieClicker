@@ -1,0 +1,74 @@
+
+/*COOKIE ALL SETUP*/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/*All Pages*/
+.allpages {
+    background: linear-gradient(#b21a1a, #ff5050);
+    height:100vh;
+}
+/*Play Ground*/
+.playgraund {
+    width: 80%;
+    height: 80%;
+    background: #6e0330;
+    position: relative;
+    top: 10%;
+    left: 10%;
+}
+/*Cookie setup*/
+#cookie {
+    position: relative;
+    top: 86px;
+    left: 35%;
+}
+/*Scoore*/
+#clickscoore {
+    position: relative;
+    top: 110px;
+    left: 45%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#numberscoore {
+    position: relative;
+    top: 91px;
+    left: 55%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*Money setup*/
+#statsmoney {
+    position: relative;
+    top: px;
+}
+
+/*Save setup*/
+
+.save {
+    position: relative;
+    top: 2px;
+    left: 3px;
+    padding: 1px 5px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.load {
+    position: relative;
+    top: 2px;
+    left: 3px;
+    padding: 1px 5px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+/*Upgrade Setup*/
+.upgrade {
+    position: relative;
+    border-radius: 15px;
+    background: chocolate;
+    width: 60px;
+}
